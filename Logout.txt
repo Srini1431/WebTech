@@ -1,0 +1,1 @@
+its deals with logout functinality 
